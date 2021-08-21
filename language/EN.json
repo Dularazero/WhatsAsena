@@ -175,11 +175,11 @@
             "UPLOADING_SONG": "```Uploading your song...```",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "```Downloading your video...```",
-            "UPLOADING_VIDEO": "```Uploading your video...```",
+            "DOWNLOADING_VIDEO": "```「 ★ Downloading Your Video.. ★```*_",
+            "UPLOADING_VIDEO": "```「 ★ Uploading Your Video.. ★ 」```",
             "YT_DESC": "It searchs on YouTube.",
-            "NEED_WORDS": "```Please write a few words!```",
-            "GETTING_VIDEOS": "```I'm bringing videos...```",
+            "NEED_WORDS": "```Please Type Few Words... 😐```",
+            "GETTING_VIDEOS": "```I will bring you the link you are looking for...```",
             "NOT_FOUND": "*I couldn't find anything :(*",
             "SEARCHING": "* 🔎 Searching...*",
             "WIKI_DESC": "Searches query on Wikipedia.",
@@ -189,7 +189,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```Media downloading & converting to sticker...```"
+            "DOWNLOADING": "```*_converting to sticker_*...```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
